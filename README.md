@@ -1,11 +1,25 @@
-# MILD
-Project for MILD: An efficient loop closure detection libary based on binary features.
+# MILD: Multi-Index hashing for Loop closure Detection.
+Official implementation for MILD: Multi-Index hashing for Loop closure Detection. [Paper](https://arxiv.org/abs/1702.08780)
 
-Related papers:
+This is a project from LuVision SIGMA, Tsinghua University. Visit our website for more interesting works: http://www.luvision.net/
 
-1.  Multi-Index Hashing for Loop closure Detection. International Conference on Multimedia Expo, 2017. Best Student Paper Awards. 
+## License
+This project is released under the [GPLv3 license](LICENSE). We only allow free use for academic use. For commercial use, please contact us to negotiate a different license by: `fanglu at tsinghua.edu.cn`
 
-2.  Beyond SIFT Using Binary features in Loop Closure Detection. IROS 2017.
+## Citing
+If you find our code useful, please kindly cite our paper:
+
+```bibtex
+@INPROCEEDINGS{8019479,
+  author={Han, Lei and Fang, Lu},
+  booktitle={2017 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={MILD: Multi-index hashing for appearance based loop closure detection}, 
+  year={2017},
+  volume={},
+  number={},
+  pages={139-144},
+  doi={10.1109/ICME.2017.8019479}}
+```
 
 # Prerequisites  ################################################################
 
